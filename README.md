@@ -1,6 +1,8 @@
 # Cloud Cover Recurrence Tool
 
-**Authors:** Bruno Rech, Jahdy Moreno Oliveira, Vinícius Lima Guimarães
+**Authors:** Bruno Rech, Jahdy Moreno Oliveira, Vinícius Lima Guimarães.
+
+* * * 
 
 This tool was developed in the course of [Introduction to Programming for Remote Sensing](https://prog-geo.github.io).
 
